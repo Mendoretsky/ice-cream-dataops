@@ -3,7 +3,7 @@ dataSetExternalId: 'ds_icapi'
 name: 'icapi_ts_assets_contextualization'
 destination:
   type: 'timeseries'
-Action: Update
+#Action: Update
 ignoreNullFields: true
 isPublic: true
 conflictMode: upsert
